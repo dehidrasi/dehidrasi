@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dehidrasi
+- 👀 I’m interested in bubuk
+- 🌱 I’m currently learning bubuk
+- 💞️ I’m looking to collaborate on bubuk
+- 📫 How to reach me bubuk
