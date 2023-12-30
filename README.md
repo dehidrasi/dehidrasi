@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @bagus2x
 - 👀 I’m interested in Frontend Development and Backend Development
 - 🌱 I’m currently learning Java Spring Boot
-- 💞️ I’m looking to collaborate on bubuk
-- 📫 How to reach me bubuk
